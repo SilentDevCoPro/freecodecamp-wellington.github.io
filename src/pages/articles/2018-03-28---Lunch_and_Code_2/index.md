@@ -30,3 +30,4 @@ Add yourself here so we know a little more about yourself and what you would lik
 | Person | Interests | URL | Mentor |
 | -------- | -------- | --- | -------- |
 | Otto     | Pairing  | https://www.freecodecamp.org/ojongerius / http://www.0tt0.net | Sure!  |
+| Max      | Sharing  |     | Sure!  |
